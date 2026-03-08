@@ -1,6 +1,6 @@
 # GameAddiction
 ## Contexte :
-
+Les données viennent de différents questionnaires addressés aux gamers dans le contexte de la recherche. Ces questionnaires sont collectés par des experts dans le but d'explorer les impacts des jeux vidéo sur la santé mentale et le comportement. Ces recherches sont uniques et non reproduite pour le moment. Leur qualité n'est donc pas parfaite.
 
 ## Description :
 
